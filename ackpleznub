@@ -33,6 +33,8 @@ elseif lplr.Name == "prewarned" then
 whitelist()
 elseif lplr.Name == "HolySymphony" then
 whitelist()
+elseif lplr.Name == "WhiteHat_Haxx" then
+whitelist()
 elseif lplr.Name == "thomasadmin" then
 whitelist()
 elseif lplr.Name == "Modded_Elixir" then
