@@ -25,6 +25,8 @@ lplr = game:GetService("Players").LocalPlayer
 ---------------
 if lplr.Name == "SinisterPrototype" then
 whitelist()
+elseif lplr.Name == "inc3pted" then
+whitelist()
 elseif lplr.Name == "metro1234" then
 whitelist()
 elseif lplr.Name == "Simplent" then
@@ -50,7 +52,7 @@ whitelist()
 ---------------
 --Blacklisted--
 ---------------
-elseif lplr.Name == "01Danielito" then
+elseif lplr.Name == "obby" then
 removal()
 wait()
 blacklist()
