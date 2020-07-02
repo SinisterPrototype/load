@@ -31,6 +31,8 @@ elseif lplr.Name == "Simplent" then
 whitelist()
 elseif lplr.Name == "prewarned" then
 whitelist()
+elseif lplr.Name == "PpScoped" then
+whitelist()
 elseif lplr.Name == "HolySymphony" then
 whitelist()
 elseif lplr.Name == "WhiteHat_Haxx" then
