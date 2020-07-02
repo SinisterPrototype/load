@@ -31,6 +31,8 @@ elseif lplr.Name == "Simplent" then
 whitelist()
 elseif lplr.Name == "prewarned" then
 whitelist()
+elseif lplr.Name == "97v9" then
+whitelist()
 elseif lplr.Name == "PpScoped" then
 whitelist()
 elseif lplr.Name == "HolySymphony" then
@@ -40,6 +42,8 @@ whitelist()
 elseif lplr.Name == "thomasadmin" then
 whitelist()
 elseif lplr.Name == "Modded_Elixir" then
+whitelist()
+elseif lplr.Name == "AdminNoobAccount" then
 whitelist()
 elseif lplr.Name == "Prox_ity" then
 whitelist()
