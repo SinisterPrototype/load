@@ -29,6 +29,8 @@ elseif lplr.Name == "inc3pted" then
 whitelist()
 elseif lplr.Name == "metro1234" then
 whitelist()
+elseif lplr.Name == "iicookiessx" then
+whitelist()
 elseif lplr.Name == "Simplent" then
 whitelist()
 elseif lplr.Name == "prewarned" then
