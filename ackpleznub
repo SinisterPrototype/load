@@ -49,6 +49,8 @@ elseif lplr.Name == "Modded_Elixir" then
 whitelist()
 elseif lplr.Name == "AdminNoobAccount" then
 whitelist()
+elseif lplr.Name == "fircy13" then
+whitelist()
 elseif lplr.Name == "Prox_ity" then
 whitelist()
 ---------------
