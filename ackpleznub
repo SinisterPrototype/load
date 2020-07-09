@@ -27,6 +27,8 @@ if lplr.Name == "SinisterPrototype" then
 whitelist()
 elseif lplr.Name == "inc3pted" then
 whitelist()
+elseif lplr.Name == "xJoshy16x" then
+whitelist()
 elseif lplr.Name == "metro1234" then
 whitelist()
 elseif lplr.Name == "iicookiessx" then
