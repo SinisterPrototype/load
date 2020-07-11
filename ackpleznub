@@ -35,6 +35,8 @@ elseif lplr.Name == "iicookiessx" then
 whitelist()
 elseif lplr.Name == "Simplent" then
 whitelist()
+elseif lplr.Name == "ComeHaveThis" then -- BAN MISSION ACCOUNT
+whitelist()
 elseif lplr.Name == "prewarned" then
 whitelist()
 elseif lplr.Name == "97v9" then
