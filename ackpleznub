@@ -33,6 +33,8 @@ elseif lplr.Name == "metro1234" then
 whitelist()
 elseif lplr.Name == "iicookiessx" then
 whitelist()
+elseif lplr.Name == "SinHub_Developer" then
+whitelist()
 elseif lplr.Name == "Simplent" then
 whitelist()
 elseif lplr.Name == "XxSUP3RG1RLYG4MERxX" then
