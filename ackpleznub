@@ -31,8 +31,6 @@ elseif lplr.Name == "metro1234" then
 whitelist()
 elseif lplr.Name == "iicookiessx" then
 whitelist()
-elseif plr.Name == "xJoshy16x" then
-whitelist()
 elseif lplr.Name == "SinHub_DeveIoper" then
 whitelist()
 elseif lplr.Name == "SinHub_Developer" then
@@ -62,6 +60,8 @@ whitelist()
 elseif lplr.Name == "fircy13" then
 whitelist()
 elseif lplr.Name == "Prox_ity" then
+whitelist()
+elseif lplr.Name == "xJoshy16x" then
 whitelist()
 ---------------
 --Blacklisted--
