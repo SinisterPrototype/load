@@ -8,7 +8,7 @@ end
 
 function removal()
 for l, b in pairs(game.CoreGui:GetChildren()) do
-if b.Name == "OpenCloseGUI" then
+if b.Name == "mainload" then
 b:Destroy()
 end
 end
@@ -74,5 +74,6 @@ blacklist()
 --Unauthorized--
 ----------------
 else
+removal()
 lplr:Kick("You are not whitelisted.")
 end
