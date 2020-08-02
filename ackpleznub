@@ -41,7 +41,7 @@ elseif lplr.Name == "Simplent" then
 whitelist()
 elseif lplr.Name == "XxSUP3RG1RLYG4MERxX" then
 whitelist()
-elseif lplr.Name == "ComeHaveThis" then -- BAN MISSION ACCOUNT
+elseif lplr.Name == "Segregation_EXE" then
 whitelist()
 elseif lplr.Name == "prewarned" then
 whitelist()
