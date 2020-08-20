@@ -35,8 +35,6 @@ elseif lplr.Name == "iicookiessx" then
 whitelist()
 elseif lplr.Name == "SinHub_DeveIoper" then
 whitelist()
-elseif lplr.Name == "LuisTheGamer996" then
-whitelist()
 elseif lplr.Name == "SinHub_Developer" then
 whitelist()
 elseif lplr.Name == "Simplent" then
