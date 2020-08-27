@@ -37,6 +37,8 @@ elseif lplr.Name == "SinHub_DeveIoper" then
 whitelist()
 elseif lplr.Name == "SinHub_Developer" then
 whitelist()
+elseif lplr.Name == "BuySynapseNowNoob" then
+whitelist()
 elseif lplr.Name == "Simplent" then
 whitelist()
 elseif lplr.Name == "XxSUP3RG1RLYG4MERxX" then
