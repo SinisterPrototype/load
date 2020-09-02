@@ -31,6 +31,8 @@ elseif lplr.Name == "Prox_ity" then
 whitelist()
 elseif lplr.Name == "LifesARace" then
 whitelist()
+elseif lplr.Name == "TheRealiSmellGames" then
+whitelist()
 elseif lplr.Name == "SuperTityTwister" then
 whitelist()
 elseif lplr.Name == "metro1234" then
