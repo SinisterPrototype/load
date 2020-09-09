@@ -29,6 +29,10 @@ elseif lplr.Name == "inc3pted" then
 whitelist()
 elseif lplr.Name == "Prox_ity" then
 whitelist()
+elseif lplr.Name == "SvckDatPpSon" then
+whitelist()
+elseif lplr.Name == "Fw_ckYouAll" then
+whitelist()
 elseif lplr.Name == "LifesARace" then
 whitelist()
 elseif lplr.Name == "TheRealiSmellGames" then
