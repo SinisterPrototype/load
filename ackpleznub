@@ -31,6 +31,12 @@ elseif lplr.Name == "Prox_ity" then
 whitelist()
 elseif lplr.Name == "SvckDatPpSon" then
 whitelist()
+elseif lplr.Name == "reinjects" then
+whitelist()
+elseif lplr.Name == "Nebulizations" then
+whitelist()
+elseif lplr.Name == "UpEdit" then
+whitelist()
 elseif lplr.Name == "Fw_ckYouAll" then
 whitelist()
 elseif lplr.Name == "LifesARace" then
