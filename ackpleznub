@@ -71,8 +71,6 @@ elseif lplr.Name == "HolySymphony" then
 whitelist()
 elseif lplr.Name == "WhiteHat_Haxx" then
 whitelist()
-elseif lplr.Name == "thomasadmin" then
-whitelist()
 elseif lplr.Name == "Modded_Elixir" then
 whitelist()
 elseif lplr.Name == "AdminNoobAccount" then
@@ -87,6 +85,10 @@ whitelist()
 --Blacklisted--
 ---------------
 elseif lplr.Name == "dosved" then
+removal()
+wait()
+blacklist()
+elseif lplr.Name == "thomasadmin" then
 removal()
 wait()
 blacklist()
