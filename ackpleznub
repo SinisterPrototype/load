@@ -37,6 +37,10 @@ elseif lplr.Name == "Nebulizations" then
 whitelist()
 elseif lplr.Name == "UpEdit" then
 whitelist()
+elseif lplr.Name == "Hades_580" then
+whitelist()
+elseif lplr.Name == "DaBossManChip" then
+whitelist()
 elseif lplr.Name == "Fw_ckYouAll" then
 whitelist()
 elseif lplr.Name == "LifesARace" then
