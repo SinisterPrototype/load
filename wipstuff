@@ -1,4 +1,4 @@
-function whitelist()
+function wl()
 game.StarterGui:SetCore("SendNotification", {
     Title = "Whitelisted!";
     Text = "Welcome, "..game.Players.LocalPlayer.Name.."!";
@@ -20,31 +20,31 @@ lplr = game:GetService("Players").LocalPlayer
 --Whitelisted--
 ---------------
 if lplr.UserId == 1077072582 then
-whitelist()
+wl()
 elseif lplr.UserId == 147934228 then
-whitelist()
+wl()
 elseif lplr.UserId == 1415278029 then
-whitelist()
+wl()
 elseif lplr.UserId == 490492741 then
-whitelist()
+wl()
 elseif lplr.UserId == 1027275467 then
-whitelist()
+wl()
 elseif lplr.UserId == 476148382 then
-whitelist()
+wl()
 elseif lplr.UserId == 1721236884 then
-whitelist()
+wl()
 elseif lplr.UserId == 13366311 then
-whitelist()
+wl()
 elseif lplr.UserId == 111860066 then
-whitelist()
+wl()
 elseif lplr.UserId == 17002115 then
-whitelist()
+wl()
 elseif lplr.UserId == 491146020 then
-whitelist()
+wl()
 elseif lplr.UserId == 1653924169 then
-whitelist()
+wl()
 elseif lplr.UserId == 1478110672 then
-whitelist()
+wl()
 ---------------
 --Blacklisted--
 ---------------
