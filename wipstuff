@@ -14,10 +14,6 @@ end
 end
 end
 
-function blacklist()
-game.Players.LocalPlayer:Kick("Blacklisted.")
-end
-
 lplr = game:GetService("Players").LocalPlayer
 
 ---------------
@@ -90,12 +86,8 @@ whitelist()
 ---------------
 elseif lplr.Name == "dosved" then
 removal()
-wait()
-blacklist()
 elseif lplr.Name == "thomasadmin" then
 removal()
-wait()
-blacklist()
 ----------------
 --Unauthorized--
 ----------------
