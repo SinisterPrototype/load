@@ -1,0 +1,105 @@
+function whitelist()
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Whitelisted!";
+    Text = "Welcome, "..game.Players.LocalPlayer.Name.."!";
+    Duration = 5;
+    })
+end
+
+function removal()
+for l, b in pairs(game.CoreGui:GetChildren()) do
+if b.Name == "OpenCloseGUI" then
+b:Destroy()
+end
+end
+end
+
+function blacklist()
+game.Players.LocalPlayer:Kick("Blacklisted.")
+end
+
+lplr = game:GetService("Players").LocalPlayer
+
+---------------
+--Whitelisted--
+---------------
+if lplr.Name == "SinisterPrototype" then
+whitelist()
+elseif lplr.Name == "incept1cs" then
+whitelist()
+elseif lplr.Name == "Prox_ity" then
+whitelist()
+elseif lplr.Name == "SvckDatPpSon" then
+whitelist()
+elseif lplr.Name == "reinjects" then
+whitelist()
+elseif lplr.Name == "Nebulizations" then
+whitelist()
+elseif lplr.Name == "UpEdit" then
+whitelist()
+elseif lplr.Name == "Hades_580" then
+whitelist()
+elseif lplr.Name == "DaBossManChip" then
+whitelist()
+elseif lplr.Name == "Fw_ckYouAll" then
+whitelist()
+elseif lplr.Name == "LifesARace" then
+whitelist()
+elseif lplr.Name == "TheRealiSmellGames" then
+whitelist()
+elseif lplr.Name == "SuperTityTwister" then
+whitelist()
+elseif lplr.Name == "metro1234" then
+whitelist()
+elseif lplr.Name == "iicookiessx" then
+whitelist()
+elseif lplr.Name == "SinHub_DeveIoper" then
+whitelist()
+elseif lplr.Name == "SinHub_Developer" then
+whitelist()
+elseif lplr.Name == "BuySynapseNowNoob" then
+whitelist()
+elseif lplr.Name == "Simplent" then
+whitelist()
+elseif lplr.Name == "XxSUP3RG1RLYG4MERxX" then
+whitelist()
+elseif lplr.Name == "Segregation_EXE" then
+whitelist()
+elseif lplr.Name == "prewarned" then
+whitelist()
+elseif lplr.Name == "97v9" then
+whitelist()
+elseif lplr.Name == "PpScoped" then
+whitelist()
+elseif lplr.Name == "HolySymphony" then
+whitelist()
+elseif lplr.Name == "WhiteHat_Haxx" then
+whitelist()
+elseif lplr.Name == "Modded_Elixir" then
+whitelist()
+elseif lplr.Name == "AdminNoobAccount" then
+whitelist()
+elseif lplr.Name == "fircy13" then
+whitelist()
+elseif lplr.Name == "Prox_ity" then
+whitelist()
+elseif lplr.Name == "xJoshy16x" then
+whitelist()
+---------------
+--Blacklisted--
+---------------
+elseif lplr.Name == "dosved" then
+removal()
+wait()
+blacklist()
+elseif lplr.Name == "thomasadmin" then
+removal()
+wait()
+blacklist()
+----------------
+--Unauthorized--
+----------------
+else
+removal()
+lplr:Kick("You are not whitelisted.")
+end
