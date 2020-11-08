@@ -23,7 +23,7 @@ lplr = game:GetService("Players").LocalPlayer
 ---------------
 --Whitelisted--
 ---------------
-if lplr.Name == "SinisterPrototype" then
+if lplr.Name == "ChaoticPresence" then
 whitelist()
 elseif lplr.Name == "incept1cs" then
 whitelist()
