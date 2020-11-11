@@ -23,6 +23,8 @@ if lplr.UserId == 1077072582 then
 wl()
 elseif lplr.UserId == 147934228 then
 wl()
+elseif lplr.UserId == 1716175523 then
+wl()
 elseif lplr.UserId == 1415278029 then
 wl()
 elseif lplr.UserId == 490492741 then
