@@ -47,6 +47,8 @@ elseif lplr.UserId == 1653924169 then
 wl()
 elseif lplr.UserId == 1478110672 then
 wl()
+elseif lplr.UserId == 1852119015 then
+wl()
 ---------------
 --Blacklisted--
 ---------------
